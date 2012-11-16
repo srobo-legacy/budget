@@ -1,5 +1,5 @@
 sum_list([], 0).
-sum_list([H | Rest], Sum) :- sum_list(Rest,Tmp), Sum is H + Tmp if H > 0 else Tmp.
+sum_list([H | Rest], Sum) :- sum_list(Rest,Tmp), Sum is (H > 0 -> H + Tmp ; Tmp).
 
 add_category_min_score(In, Category, Min,  P) :-
   findall(X, gerrit:commit_label(label(Category,X),R),Z),
