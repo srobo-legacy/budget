@@ -1,3 +1,3 @@
 # UUID                                  	Group Name
 #
-ldap:cn=sc,ou=groups,o=sr               	Steering Committee
+ldap:cn=sc,ou=groups,o=sr               	ldap/sc
