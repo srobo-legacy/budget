@@ -1,0 +1,14 @@
+summary: Petrol for fetching networking gear
+
+# Cost of the item
+cost: 50
+
+# Long description
+description: >-
+  Our networking kit for tech days is ready, fully configured, and
+  currently sitting in a house belonging to cmalton in Essex. We
+  need to fetch it.
+  This covers the cost of petrol.
+
+# Whether the item/service can only be used once
+consumable: true
