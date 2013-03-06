@@ -8,3 +8,4 @@ description: >-
   Cost calculated in trac ticket 1344.
 
 consumable: false
+closed: false

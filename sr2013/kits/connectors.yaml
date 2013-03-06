@@ -7,3 +7,4 @@ description: >-
   SR2013 kit. Cost based on trac ticket 1337.
 
 consumable: true
+closed: false
