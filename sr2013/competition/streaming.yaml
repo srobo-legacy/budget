@@ -1,0 +1,14 @@
+summary: Account on justin.tv for streaming
+
+cost: 10
+
+description: >-
+  One month of account on justin.tv for the competition live stream
+
+  Having the account removes bandwidth constraints and means that
+  we can stream without ads. The cost is quoted as $9.99 for a
+  month, this is a worst-case port of that on exchange rate.
+
+# Whether the item/service can only be used once
+consumable: true
+
