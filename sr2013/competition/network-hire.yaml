@@ -1,0 +1,11 @@
+summary: Hire of network equipment for the competition
+
+cost: 150.00
+
+description: >-
+  Hire of the router, APs, switches and associated equipment from
+  Chris Malton.
+
+# Whether the item/service can only be used once
+consumable: true
+
