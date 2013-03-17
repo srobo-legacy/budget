@@ -1,6 +1,6 @@
 summary: Battery cable for new connectors.
 
-cost: 49.60
+cost: 0
 
 description: >-
   Budget for cable suitable for the battery connectors we distribute to teams.
@@ -8,3 +8,4 @@ description: >-
   Cost calculated in trac ticket 1344.
 
 consumable: false
+closed: true
