@@ -14,5 +14,5 @@ add_category_min_score(In, Category,Min,P) :-
 submit_rule(S) :-
   gerrit:default_submit(X),
   X =.. [submit | Ls],
-  add_category_min_score([],'Code-Review', 4, NewLabels),
+  add_category_min_score([],'Code-Review', 3, NewLabels),
   S =.. [submit | NewLabels].
