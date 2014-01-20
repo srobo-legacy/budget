@@ -1,0 +1,12 @@
+summary: Wristbands for entry to the competition
+
+cost: 348.00
+
+description: >-
+  Cost of 700 fabric wrist-bands.
+
+  Based on a quotation from wristbands.co.uk. 280 for
+  wristbands, 10 for carriage, plus VAT.
+
+# Whether the item/service can only be used once
+consumable: true
