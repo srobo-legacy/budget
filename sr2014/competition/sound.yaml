@@ -10,4 +10,4 @@ description: >-
   This is a complete guess at the moment.  We have no numbers yet.
 
 # Whether the item/service can only be used once
-consumable: false
+consumable: true
