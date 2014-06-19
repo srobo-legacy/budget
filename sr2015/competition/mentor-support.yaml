@@ -1,0 +1,18 @@
+summary: Mentor travel to and accommodation at the competition
+
+# Cost of the item
+cost: 2500
+
+# Long description
+description: >-
+  For the second year, we're going to host the competition somewhere far
+  from all our branches. In order to ensure that the competition is a
+  success we need as many blueshirts as we can get, and don't want them
+  worrying about the cost of travel/accommodation.
+
+  £2.5k is a guess based on a suggestion that it would have cost about
+  £1.2k for travellodge for those that needed it for SR2014, and then dialed
+  up to also include travel costs and more mentors.
+
+# Whether the item/service can only be used once
+consumable: true
