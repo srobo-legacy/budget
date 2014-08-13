@@ -1,0 +1,14 @@
+summary: Hosting of web services
+
+# Cost of the item
+cost: 26 * 12       # £312
+
+# Long description
+description: >-
+  Hosting of the Student Robotics website with linode.com for one year.
+  We're charged at $40/month (their branding appears to changes fairly often)
+  so this is based on a combination of the numbers provided by Jemery in
+  #2486 combined with some fudge to allow for currency conversions.
+
+# Whether the item/service can only be used once
+consumable: true
