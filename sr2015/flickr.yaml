@@ -1,0 +1,15 @@
+summary: Flickr, a photo sharing service
+
+cost: 150000000 * 1.2
+
+description: >-
+    We store many of our photos on Flickr, but it's useful to keep our data
+    under our own control. It therefore makes sense to buy Flickr.
+
+    $250 million US dollars seems like a reasonable estimate, which is
+    approximately £150 million.
+
+    This includes VAT.
+
+# Whether the item/service can only be used once
+consumable: false
