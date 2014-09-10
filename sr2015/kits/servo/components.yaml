@@ -1,0 +1,12 @@
+summary: SR2015 Servo board components
+
+cost: 28.34 * sr2015_total_kits
+uncertainty: 0.02
+
+description: >-
+  Assembly of USB servo boards for all teams.
+
+  This is a ballpark estimate of the cost.
+
+# Whether the item/service can only be used once
+consumable: false
