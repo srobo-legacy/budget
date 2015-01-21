@@ -1,0 +1,11 @@
+summary: Stationery for score management
+
+cost: 50.00
+
+description: >-
+  Bits of stationery for competition paperwork
+
+# Whether the item/service can only be used once
+consumable: false
+
+closed: false

@@ -1,0 +1,13 @@
+summary: Venue hire for the competition
+
+cost: 1300
+
+description: >-
+  Fee for susu tech crew.
+  based on a quick summary of max likley tech crew hours
+
+# Whether the item/service can only be used once
+consumable: true
+
+
+closed: false

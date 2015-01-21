@@ -1,0 +1,12 @@
+summary: Venue hire for the competition
+
+cost: 2000
+
+description: >-
+  SUSU venue hire: based on an elevated 2013 costs.
+
+# Whether the item/service can only be used once
+consumable: true
+
+
+closed: false

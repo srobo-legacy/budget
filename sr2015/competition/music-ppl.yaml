@@ -1,0 +1,11 @@
+summary: A PPL license for the competition
+
+cost: 60
+
+description: >-
+  Might be covered by venue but include just in case.
+
+# Whether the item/service can only be used once
+consumable: true
+
+closed: false

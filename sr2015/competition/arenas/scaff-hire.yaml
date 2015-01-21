@@ -1,0 +1,13 @@
+summary: Scaffolding hire
+
+cost: 500
+
+description: >-
+  Scaff hire and delivery for two arenas.
+
+  was 450 last year with delivery to newbury.
+
+# Whether the item/service can only be used once
+consumable: true
+
+closed: false

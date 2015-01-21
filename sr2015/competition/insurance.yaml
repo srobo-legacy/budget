@@ -1,0 +1,11 @@
+summary: Insurance against injury at the competition
+
+cost: 200.00
+
+description: >-
+  This is an increased amount from 2013.
+
+# Whether the item/service can only be used once
+consumable: true
+
+closed: true

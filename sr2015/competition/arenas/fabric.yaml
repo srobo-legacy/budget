@@ -1,0 +1,16 @@
+summary: Fabric for the arenas
+
+# Cost of the item
+cost: 20.00
+
+# Long description
+description: >-
+  Fabric for covering the arenas.
+
+  About £15 from fabricland
+
+
+# Whether the item/service can only be used once
+consumable: false
+
+closed: false

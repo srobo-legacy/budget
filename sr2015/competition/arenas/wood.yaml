@@ -1,0 +1,16 @@
+summary: Wood for the arenas
+
+# Cost of the item
+cost: 500
+
+# Long description
+description: >-
+  Wood for the arenas.
+
+  We threw out most of what we had at last years competition
+  was about 400 last year so boos theis to cover the pine as well
+
+# Whether the item/service can only be used once
+consumable: false
+
+closed: false

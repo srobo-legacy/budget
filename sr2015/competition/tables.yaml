@@ -1,0 +1,13 @@
+summary: Table hire
+
+# Cost of the item
+cost: 100.00
+
+# Long description
+description: >-
+  Hire of some trestle tables for the competition.
+
+# Whether the item/service can only be used once
+consumable: false
+
+closed: false

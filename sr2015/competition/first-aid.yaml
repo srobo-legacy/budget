@@ -1,0 +1,12 @@
+summary: First aiders for the competition from St John Ambulance
+
+cost: 500
+
+description: >-
+  Firs aiders to cover the competition  
+  Was £110 per person per day lasy year boost a bit 
+
+# Whether the item/service can only be used once
+consumable: true
+
+closed: false

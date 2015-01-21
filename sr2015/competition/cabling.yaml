@@ -1,0 +1,11 @@
+summary: Cabling for the competition
+
+cost: 300
+
+description: >-
+  SUSU already have most of this so we shouldnt need to hire too much.
+
+# Whether the item/service can only be used once
+consumable: true
+
+closed: false

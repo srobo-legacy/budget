@@ -1,0 +1,13 @@
+summary: Fixings for arena construction
+
+cost: 10.00
+
+description: >-
+  Various fixings for the arena.
+
+  we havent spent much /any in previous years £10 fudge factory
+
+# Whether the item/service can only be used once
+consumable: false
+
+closed: false
